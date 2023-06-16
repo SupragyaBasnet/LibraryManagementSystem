@@ -7,7 +7,7 @@ import java.sql.*;
 
 /**
  *
- * @author niles
+ * 
  */
 public class MyConnection {
     public static Connection dbconnect() {

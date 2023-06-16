@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author Bibhakta lamsal
+ * 
  */
 public class RegisterView extends javax.swing.JFrame {
     RegisterModel model;

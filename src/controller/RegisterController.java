@@ -12,7 +12,7 @@ import view.LoginView;
 import view.RegisterView;
 /**
  *
- * @author Bibhakta lamsal
+ * 
  */
 public class RegisterController {
     RegisterModel model;

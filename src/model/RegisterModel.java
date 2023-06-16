@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author Bibhakta lamsal
+ * 
  */
 public class RegisterModel {
     String  username,firstname,lastname,gmail,phonenum,food,password,confirmpassword;
