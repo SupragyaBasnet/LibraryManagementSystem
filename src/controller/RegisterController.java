@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import java.sql.*;
 import javax.swing.JOptionPane;
 import model.*;
-import view.LoginView;
+//import view.LoginView;
 import view.RegisterView;
 /**
  *
@@ -38,8 +38,8 @@ public class RegisterController {
                 {
                     view.setMessage("Registered Successfully");
                     this.dispose();
-                    LoginView loginPage = new LoginView();
-                    loginPage.setVisible(true); 
+//                    LoginView loginPage = new LoginView();
+//                    loginPage.setVisible(true); 
                 }
             }
             catch(Exception e1)
